@@ -1,7 +1,8 @@
 import os
 import django_heroku
 import dj_database_url
-from decouple import config
+from decouple import config 
+
 """
 Django settings for everything project.
 
@@ -134,3 +135,6 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
 ]
 
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
+django_heroku.settings(locals())
