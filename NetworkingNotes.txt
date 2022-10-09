@@ -1,0 +1,35 @@
+<Ch1>& Physical layer 1
+1.1<Les>& Protocols
+1.1.1<Sec>& IEEE 802.3 (ethernet)
+1.1.2<Sec>& Token ring
+1.1.3<Sec>& RS-232
+1.1.3.1<Sec>& Definition
+1.1.3.1.1<Sec>& provides an electrical, mechanical, and procedural interface to the transmission medium (transmission medium: i.e. Ethernet cables?)
+<Ch2>& Data link 2
+2.1<Les>& Protocols
+2.1.1<Sec>& PPP
+2.1.2<Sec>& IEEE 802.2
+2.1.2.1<Sec>& Definition
+2.1.2.1.1<Sec>& Reliable transmission of data frames between two nodes connected by a physical layer
+2.1.2.1.1.1<Sec>& switching protocols 
+2.1.2.1.1.1.1<Sec> Process to forward known unicast frame
+2.1.2.1.1.1.2<Sec> Process to learn MAC address
+2.1.2.1.1.1.2.1<Sec>Switch reads incoming frames MAC destination and looks at its own MAC address table; which specifies a specific port for each mac address, if address not know switch adds to table 
+2.3<Les>& LAN (Data plays starcraft)
+2.3.1<Sec>& VLANS
+2.3.1.1<Sec>& all the devices in a single broadcast domain
+2.3.1.1.1<Sec>& by default switches consider all ports on one broadcast domain; broadcast frames are sent out on all ports
+2.3.1.1.1.1<MP>& david ejs fat by data poya takes the fat and does breast sugery (operates) for a nun (relgion) pooya gives his operating needle to oscar who needls and earthworm brantly comes and takes the worm and catches an otter using the worm as bait he then rips apart the otter and throws half to adam who is wearing a baseball uniform and dipping 
+2.3.1.2<Sec>& Vlans can split a single switch's ports into multiple broadcast domains
+2.3.1.2.1<Sec>& layer 2 switches use a router to direct frames to different VLANs. A layer 3 switch has its own routing capabilities 
+2.3.1.2.1.1<Sec>& layer three switch used to connect different vlan domains 
+           
+           
+  
+
+
+
+
+
+       
+

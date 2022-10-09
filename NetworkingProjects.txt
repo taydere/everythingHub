@@ -1,0 +1,8 @@
+<Proj1> Set up home router 
+link to other sections?
+Steps: 
+set up TP-link account 
+
+<Proj2>
+link project to Django project
+host project on Heroku  
