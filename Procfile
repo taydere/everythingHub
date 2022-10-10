@@ -1,1 +1,1 @@
-web: gunicorn everythingHub.wsgi
+web: gunicorn everything.wsgi
