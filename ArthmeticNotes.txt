@@ -30,3 +30,20 @@
 2.5<Les>& What is the relationship between units of adjacent place value? Reale Jason – Jason playing soccer for Real Madrid
 2.5.1<Sec>& Ten units of lower place value can be composed – grouped together – to make one unit of the next higher value. Equivalently one unit of higher place value can be decomposed – broken up – into ten units of the next lower place value. At each place you are counting powers of 10 unit you get to another group of 10.
 2.5.1.1<MP>& Jason scores a goal because Tien to busy e nutella, stephanie is mad and needles icle needles into tien; Louis takes the needles out of tien to poorly operate on a walrus who will be the new golie because its so fat
+3.<Ch3>& The meaning of decimals
+A decimal is a proper fraction which is a number less than 1. It is a  part of number 1
+3.1<Les>& what are the names of the cardinal numbers
+3.1.1<Sec>& one, two, three, ect. Answers the question how many
+3.2<Les>& what are the names of the ordinal numbers
+3.2.1<Sec>& definition
+3.2.1.1<Sec>& first, second, third, so on. Answers the question which one.
+3.2.2<Sec>& division into equal parts
+3.2.2.1<Sec>& If we divide 15, into three equal parts – into three 5's. We say that 5 is the third part of 15 because 15 is the third multiple of 5: 5, 10, 15. We use that same ordinal number to name the part
+3.3<Les>& which numbers are the decimal units
+3.3.1<Sec>& The numbers are units that are created when starting with  the ones unit each unit is divided into 10 equal parts which each become a unit (1/10) that can be further divided by 10 or counted
+3.3.1.1<MP>& Orlando take apple from witch and feeds to rabbit them throws core into dung fire ignited by Varun Erin has made the dung and wipes giving paper towel to tien who wipes Nutella, an icle dild used by tien is smashed by Michael Wyatt 
+3.3.1.2<Notes>& 387: each decimal digit indicates the number of tenths, hundredths, thousandths, so on
+3.3.1.2.1<Notes>& 387 thousandths or 3 x tenths + 8 hundredths + 7 thousandths
+3.3.1.3<Notes>& place value:
+3.3.1.3.1<Notes>& as with whole numbers each place is ten times the place to its right
+
