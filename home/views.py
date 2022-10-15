@@ -53,7 +53,7 @@ def parseNetworkingProjects():
 
 def parseArithmeticText():
     
-    file = open("/home/taylor/Desktop/everything/ArthmeticNotes.txt", "r")
+    file = open("/ArthmeticNotes.txt", "r")
 
     lines = file.readlines() 
     
