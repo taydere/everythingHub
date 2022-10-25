@@ -1,35 +1,28 @@
 <Ch1>& Numeration of the whole number &&
 1.1<Les>& Units &&
 1.1.1<Sec>& We can only count things of the same kind, that is, that have the same name, the thing is the unit. Any other quantity of that kind can be expressed as a multiple of the unit. &&
-1.1.1.1 <MP>& *Oscar* throws *needles* at *lollipop* the needle is then used by *Cassie* to *operated* on *Ut.* *Erin* *xeroxes* *pringles* then the xerox machine blows up because *mark* *ur* on a *lolipop* &&
 1.1.2<Sec>& A unit of measurement is a definite magnitude of a quantity, defined and adopted by convention or by law, that is used as a standard for measurement of the same kind of quantity. Any other quantity of that kind can be expressed as a multiple of the unit of measurement. &&    
 1.1.2.1<Sec>& a unit - “one” is the source of a number of anything. We count units. &&
 1.2<Les>& Numerals (pg 6) &&
 1.2.1<Sec>& Numerals are symbols for the counting names “1,2,3,4,ect” &&
-1.2.1.1 <MP>&wearing overalls *sach* *yacks* *mcDonalds* &&
 1.3<Les>& The sequence of counting names (pg 6) &&
 1.3.1<Sec>& the sequence of names is linked with their cardinality: how many. We say that each number is one more than the previous number &&
-1.3.1.1 <MP>& *Cassie* wearing sequen necklace *attacks(assaults)* *priest* who is angry she parties and David incinerates a jar of nutella trying to stop her &&
 1.4<Les>& Tens &&
 1.4.1<Sec>& Once ten is reach 10 becomes the new unit to count. The number of 10's units is indicated in the second column from the right. Same for all the powers of 10 once reached. One hundred is a collection of 10 tens units. It also becomes a unit to be counted once its reached. &&
 1.4.1.1<Sec>& really just using the digits 0-9 to count and then notating a power of ten in places once its reached and then starting over counting with the ones digit. &&
 <Ch2>& Reading and writing whole numbers the powers of 10:
 2.1<Les>& What are the ten digits? Hand
 2.1.1<Sec>& The ten symbols 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
-2.1.1.1 <MP>& *McDonalds* *bitchslaps* *otter*
 2.2<Les>& Which numbers are the powers of 10?
 2.2.1.<Sec>& They are the numbers produced when, starting with one, we continue collecting them (the numbers) into groups of 10. 10 ones. 10 Tens. 10 hundreds. 10 thousands
-2.2.1.1 <MP>& POW shoots pooya for ripping otter Oscar forges a needle out of the bullet fragments and needles an earthworm and passes the needle to cassie who then operates on patient and uses ice lolipop to cool wound
 2.2.1.2<Notes>& Them  = (the numbers)? Each set of ten being counted to make up the next power (100) could be thought of as a seperate group being counted. Starting at 0 10 different times and collecting 10 ones units. Each 10's unit is a separate entity
 2.2.1.3<Notes>&  2. 20 = 2 10's powers of 10; 20 is not a power
 2.3<Les>& What are the names of the classes?
 2.3.1<Sec>& 1. 1s, thousands, millions; each class is a grouping of 3 consecutive powers of 10
 2.4<Les>& what is the value of each place? <MP>Pow places valorant bomb
 2.4.1<Sec>& Starting with the place on the right, each place belongs to the next power of 10. The organizing principle of our system of numbers are the powers of 10. Starting with the one on the right we have chosen the powers of 10 to be the units. There are 3 of that unit (hundreds) 6 of that unit (tens) and four of that unit (ones) 364.
-2.4.1.1<MP>& Ricky dressed as Omen uses a flamethrower to ignite a huge gasoline fire buring nithin who is e on a skateboard he falls and e get in pooyas face who has to wipe it away as he operates on a walrus
 2.5<Les>& What is the relationship between units of adjacent place value? Reale Jason – Jason playing soccer for Real Madrid
 2.5.1<Sec>& Ten units of lower place value can be composed – grouped together – to make one unit of the next higher value. Equivalently one unit of higher place value can be decomposed – broken up – into ten units of the next lower place value. At each place you are counting powers of 10 unit you get to another group of 10.
-2.5.1.1<MP>& Jason scores a goal because Tien to busy e nutella, stephanie is mad and needles icle needles into tien; Louis takes the needles out of tien to poorly operate on a walrus who will be the new golie because its so fat
 3.<Ch3>& The meaning of decimals
 A decimal is a proper fraction which is a number less than 1. It is a  part of number 1
 3.1<Les>& what are the names of the cardinal numbers
@@ -41,7 +34,6 @@ A decimal is a proper fraction which is a number less than 1. It is a  part of n
 3.2.2.1<Sec>& If we divide 15, into three equal parts – into three 5's. We say that 5 is the third part of 15 because 15 is the third multiple of 5: 5, 10, 15. We use that same ordinal number to name the part
 3.3<Les>& which numbers are the decimal units
 3.3.1<Sec>& The numbers are units that are created when starting with  the ones unit each unit is divided into 10 equal parts which each become a unit (1/10) that can be further divided by 10 or counted
-3.3.1.1<MP>& Orlando take apple from witch and feeds to rabbit them throws core into dung fire ignited by Varun Erin has made the dung and wipes giving paper towel to tien who wipes Nutella, an icle dild used by tien is smashed by Michael Wyatt 
 3.3.1.2<Notes>& 387: each decimal digit indicates the number of tenths, hundredths, thousandths, so on
 3.3.1.2.1<Notes>& 387 thousandths or 3 x tenths + 8 hundredths + 7 thousandths
 3.3.1.3<Notes>& place value:

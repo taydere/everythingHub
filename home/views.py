@@ -31,11 +31,8 @@ def networkingNotes(request):
     return render(request, 'networkingNotes.html', context)
 
 def arithmeticpalace(request):
-    context = {}
 
-    context['string_list'] = parseArithmeticText()
-
-    return render(request, 'arithmeticpalace.html', context)
+    return render(request, 'arithmeticpalace.html')
 
 def parseNetworkingProjects():
     file = open("/home/taylor/Desktop/everything/NetworkingProjects.txt", "r")
