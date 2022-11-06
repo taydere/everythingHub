@@ -2,10 +2,17 @@ from typing import ContextManager
 from django.shortcuts import render
 from django.http import HttpResponse
 from datetime import date
+from django.views.generic import ListView, DetailView
 import random 
-import smtplib 
+import smtplib
+
+from .models import Post 
 
 # Create your views here.
+
+class arithmeticPalaceView(ListView): #this creates an object?
+    model = Post #
+    template_name = 'arithmeticpalace.html' #specifies what file to use? 
 
 def index(request):
     return render(request, 'index.html')
@@ -30,9 +37,16 @@ def networkingNotes(request):
 
     return render(request, 'networkingNotes.html', context)
 
-def arithmeticpalace(request):
+#def arithmeticpalace(request):
 
-    return render(request, 'arithmeticpalace.html')
+    #return render(request, 'arithmeticpalace.html')
+
+def programmingFundamentals(request):
+    return render(request, 'programmingpalace.html')
+
+def programmingPalace(request):
+
+    return render(request,'computerSciencePalace.html')
 
 def parseNetworkingProjects():
     file = open("/home/taylor/Desktop/everything/NetworkingProjects.txt", "r")
