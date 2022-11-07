@@ -82,23 +82,23 @@ WSGI_APPLICATION = 'everything.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
-#DATABASES = {
-   # 'default': {
-       # 'ENGINE': 'django.db.backends.postgresql',
-      #  'NAME': 'railway',
-     #   'USER': 'postgres',
-    #    'PASSWORD': 'nuOrhBiLwcakp0iUIRWD',
-   #     'HOST': 'containers-us-west-106.railway.app',
-  #      'PORT': '7431',
- #   }
-#}
-
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'd7pqk7t61pd10h',
+        'USER': 'cikeoqrcjcasum',
+        'PASSWORD': '84727ff332659af32793e6cf8e54882ae058cb6861ae4e4b1d37a4b53e7b7aae',
+        'HOST': 'ec2-54-147-36-107.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
+
+#DATABASES = {
+ #   'default': {
+  #      'ENGINE': 'django.db.backends.sqlite3',
+   #     'NAME': BASE_DIR / 'db.sqlite3',
+    #}
+#}
 
 import dj_database_url
 db_from_env = dj_database_url.config(conn_max_age=600)
